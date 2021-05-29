@@ -55,7 +55,9 @@
                 $.getJSON("./img/comic_data.min.json", function(data) {
                     comic_data = data
 
-                    __load_page()
+                    const searchParams = new URLSearchParams(window.location.search)
+
+                    set_page(searchParams.has("page") ? searchParams.get("page") : 1)
 
                     __generate_archive_content()
                 })
@@ -64,7 +66,7 @@
                     return current_page
                 }
 
-                function set_page(id) {
+                function set_page(id, create_history=true) {
                     // Clamp the value between 1 to max number of pages
                     id = Math.min(comic_data.length, Math.max(id, 1))
 
@@ -83,17 +85,12 @@
                     // Store our page for later reading
                     window.localStorage.setItem("page", id)
 
+                    // Push a history entry for the current page before switching.
+                    if (create_history)
+                        window.history.pushState({"page": id}, null, `?page=` + id)
+
                     // Update Window title
                     $(document).attr("title", `[` + id + `] ` + page["title"])
-
-                    // Change the URL to complete it.
-                    window.history.pushState({}, "", `?page=` + id)
-                }
-
-                function __load_page() {
-                    const searchParams = new URLSearchParams(window.location.search)
-
-                    set_page(searchParams.has("page") ? searchParams.get("page") : 1)
                 }
 
                 function __generate_archive_content() {
@@ -138,8 +135,7 @@
                 })
 
                 window.addEventListener("popstate", function(e) {
-                    console.log(e.state.url)
-                    __load_page()
+                    set_page(e.state.page, false)
                 })
             })()
 
