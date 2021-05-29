@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="FW! Adventures">
 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.1/css/bootstrap.min.css" integrity="sha512-Ez0cGzNzHR1tYAv56860NLspgUGuQw16GiOOp/I2LuTmpSK9xDXlgJz3XN4cnpXWDmkNBKXR/VDMTCnAaEooxA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 	<link rel="stylesheet" href="./css/common.css">
     <link rel="stylesheet" href="./css/view.css">
 
@@ -17,9 +18,9 @@
     <div class="container">
         <div>
             <ul id="controls">
-                <li><a class="previous-link" href="#">Previous</a>
-                <li><a class="list-link" href="#">Page List</a>
-                <li><a class="next-link" href="#">Next</a>
+                <li><a class="previous-link fw-link" href="#">Previous</a>
+                <li><a class="toc-link fw-link" href="#">Table of Contents</a>
+                <li><a class="next-link fw-link" href="#">Next</a>
             </ul>
         </div>
 
@@ -35,21 +36,26 @@
 
         <ul id="archive-list" style="display: none;"></ul>
 
+        <div>
+            <ul id="controls">
+                <li><a class="previous-link fw-link" href="#">Previous</a>
+                <li><a class="toc-link fw-link" href="#">Table of Contents</a>
+                <li><a class="next-link fw-link" href="#">Next</a>
+            </ul>
+        </div>
+
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.1/js/bootstrap.bundle.min.js" integrity="sha512-sH8JPhKJUeA9PWk3eOcOl8U+lfZTgtBXD41q6cO/slwxGHCxKcW45K4oPCUhHG7NMB4mbKEddVmPuTXtpbCbFA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
         <script>
             (function() {
                 let comic_data
                 let current_page = 0
 
-                $.getJSON("./img/comic_data.json", function(data) {
-                    const searchParams = new URLSearchParams(window.location.search)
-
+                $.getJSON("./img/comic_data.min.json", function(data) {
                     comic_data = data
 
-                    let page_id = searchParams.has("page") ? searchParams.get("page") : 1
-
-                    set_page(page_id)
+                    __load_page()
 
                     __generate_archive_content()
                 })
@@ -77,14 +83,17 @@
                     // Store our page for later reading
                     window.localStorage.setItem("page", id)
 
-                    // Change the URL to complete it.
-                    const url = new URL(window.location)
-                    url.searchParams.set("page", id)
-
-                    window.history.pushState({}, "", url)
-
                     // Update Window title
-                    $(document).attr("title", `Page ` + id)
+                    $(document).attr("title", `[` + id + `] ` + page["title"])
+
+                    // Change the URL to complete it.
+                    window.history.pushState({}, "", `?page=` + id)
+                }
+
+                function __load_page() {
+                    const searchParams = new URLSearchParams(window.location.search)
+
+                    set_page(searchParams.has("page") ? searchParams.get("page") : 1)
                 }
 
                 function __generate_archive_content() {
@@ -112,7 +121,7 @@
                     return false
                 })
 
-                $("#controls .list-link").click(function(e) {
+                $("#controls .toc-link").click(function(e) {
                     e.stopImmediatePropagation()
 
                     $("#archive-list").toggle()
@@ -126,6 +135,11 @@
                     set_page(get_page() + 1)
 
                     return false
+                })
+
+                window.addEventListener("popstate", function(e) {
+                    console.log(e.state.url)
+                    __load_page()
                 })
             })()
 

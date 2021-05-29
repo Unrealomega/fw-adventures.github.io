@@ -7,3 +7,13 @@
     margin: 0 auto;
     padding: 40px 20px;
 }
+
+@font-face {
+    font-family: 'SigmarOne';
+    src: url('/fonts/SigmarOne-Regular.ttf');
+}
+
+a.fw-link {
+    font-family: SigmarOne;
+    text-decoration: none;
+}
