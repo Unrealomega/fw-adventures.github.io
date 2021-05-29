@@ -2,8 +2,15 @@
 <html lang="en">
 	<head>
 		<title>FW! Adventures - Thanks for your support!</title>
+
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="FW! Adventures">
+
 		<link rel="stylesheet" href="./css/common.css">
         <link rel="stylesheet" href="./css/index.css">
+
+		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 	</head>
 	<body>
 		<div class="container">
@@ -15,8 +22,14 @@
 				<img src="./img/20170612-Forest-Bye-Sketches.png" alt="Catch you all later! :3" title="Catch you all later! :3"/>
 			</div>
 
-            <a href="./view.html">Start reading here</a>
+			<div class="viewer">
+				<ul>
+					<li><a href="./view.html?page=0">The beginning!</a>
+					<li><a id="view-link" href="./view.html?page="></a>
+				</ul>
+			</div>
 
+			<h1 style="text-align: center">Downloads</h1>
 			<div class="archives">
 				<ul>
 					<li><a href="./archives/2008.zip">2008</a>
@@ -47,5 +60,22 @@
 				<p>Catch you all later!</p>
 				<p>-Will</p>
 		</div>
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+		<script>
+            (function() {
+				const page = window.localStorage.getItem('page')
+
+				if (page) {
+					const view_link = $("#view-link")
+
+					// Set the current page for future viewing
+					view_link.attr("href", view_link.attr("href") + page)
+					view_link.text("Continue from page " + page)
+				}
+
+			})()
+        </script>
 	</body>
 </html>

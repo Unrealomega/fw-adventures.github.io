@@ -1,4 +1,1914 @@
-[{
-    "filename": "20080329-StartofSomethingGr.png",
-    "title": "Start of Something Great?"
-}]
+[
+    {
+        "filename": "2008/20080329-StartofSomethingGr.png",
+        "title": "The Start of Something Great?",
+        "episode": "Episode #1",
+        "date": "2008-03-29",
+        "text": [
+            "[Moving...]",
+            "WE'RE HEEEEEERE!!",
+            "Sleepy head...",
+            "[My parents keep telling me how this is a new start for us, and how much fun this will be...]",
+            "[The twins seem to like it...]",
+            "[But I have to wonder... What will things be like here?]",
+            "...And boy there sure are a lot of trees..."
+        ]
+    },
+    {
+        "filename": "2008/20080402-TheseArentLabeledR.png",
+        "title": "These Boxes Aren't Labeled Right...",
+        "episode": "Episode #2",
+        "date": "2008-04-02",
+        "text": []
+    },
+    {
+        "filename": "2008/20080405-MightAsWellGettoKn.png",
+        "title": "Might as Well Get to Know the Place...",
+        "episode": "Episode #3",
+        "date": "2008-04-05",
+        "text": []
+    },
+    {
+        "filename": "2008/20080412-NoThatsHisNaturalF.png",
+        "title": "No, that's his natural fur color...",
+        "episode": "Episode #4",
+        "date": "2008-04-12",
+        "text": []
+    },
+    {
+        "filename": "2008/20080419-MaybeIllSkipDinner.png",
+        "title": "...Maybe I'll Skip Dinner tonight...",
+        "episode": "Episode #5",
+        "date": "2008-04-19",
+        "text": []
+    },
+    {
+        "filename": "2008/20080426-ISenseaRecurringTh.png",
+        "title": "",
+        "episode": "Episode #6",
+        "date": "2008-04-26",
+        "text": []
+    },
+    {
+        "filename": "2008/20080511-CheerUpCharlie.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-05-11",
+        "text": []
+    },
+    {
+        "filename": "2008/20080622-WhatHappened.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-06-22",
+        "text": []
+    },
+    {
+        "filename": "2008/20080625-ItsToBeExpected.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-06-25",
+        "text": []
+    },
+    {
+        "filename": "2008/20080629-OopsShouldHavePutA.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-06-29",
+        "text": []
+    },
+    {
+        "filename": "2008/20080702-AnimeExpo.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-07-02",
+        "text": []
+    },
+    {
+        "filename": "2008/20080716-NotAMorningWolf.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-07-16",
+        "text": []
+    },
+    {
+        "filename": "2008/20080723-MightHaveBeenImpor.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-07-23",
+        "text": []
+    },
+    {
+        "filename": "2008/20080727-HeyThatisPrettyCre.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-07-27",
+        "text": []
+    },
+    {
+        "filename": "2008/20080730-SupposeThatWouldCu.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-07-30",
+        "text": []
+    },
+    {
+        "filename": "2008/20080806-NotBeingChased.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-08-06",
+        "text": []
+    },
+    {
+        "filename": "2008/20080810-AaaaandHesSafe.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-08-10",
+        "text": []
+    },
+    {
+        "filename": "2008/20080813-HesLuckyHeWasntSte.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-08-13",
+        "text": []
+    },
+    {
+        "filename": "2008/20080817-LooksLikeSomeonesB.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-08-17",
+        "text": []
+    },
+    {
+        "filename": "2008/20080824-ImNotTooShortYoure.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-08-24",
+        "text": []
+    },
+    {
+        "filename": "2008/20080827-FinallyMadeIt.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-08-27",
+        "text": []
+    },
+    {
+        "filename": "2008/20080831-GotHisNameRight.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-08-31",
+        "text": []
+    },
+    {
+        "filename": "2008/20080903-Filler-Emocoaster.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-09-03",
+        "text": []
+    },
+    {
+        "filename": "2008/20080907-PurelyCoincidental.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-09-07",
+        "text": []
+    },
+    {
+        "filename": "2008/20080910-AndHowIsHeNot.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-09-10",
+        "text": []
+    },
+    {
+        "filename": "2008/20080914-YesofCourseIDid.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-09-14",
+        "text": []
+    },
+    {
+        "filename": "2008/20080921-InthePrincipalsOff.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-09-21",
+        "text": []
+    },
+    {
+        "filename": "2008/20080924-OoohSoHeDoesSmile.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-09-24",
+        "text": []
+    },
+    {
+        "filename": "2008/20080929-BlameGameAnyone.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-09-29",
+        "text": []
+    },
+    {
+        "filename": "2008/20081003-NaaaahNotForebodin.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-10-03",
+        "text": []
+    },
+    {
+        "filename": "2008/20081017-ThanksAgain-Animat.gif",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-10-17",
+        "text": []
+    },
+    {
+        "filename": "2008/20081031-Halloween.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-10-31",
+        "text": []
+    },
+    {
+        "filename": "2008/20081107-UmmDoubt-It.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-11-07",
+        "text": []
+    },
+    {
+        "filename": "2008/20081114-SomeHallsWould.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-11-14",
+        "text": []
+    },
+    {
+        "filename": "2008/20081124-PreparedSpeeches.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-11-24",
+        "text": []
+    },
+    {
+        "filename": "2008/20081129-Dundunduuuuun.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-11-29",
+        "text": []
+    },
+    {
+        "filename": "2008/20081205-YippeeAww.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-12-05",
+        "text": []
+    },
+    {
+        "filename": "2008/20081215-ItSoundsLikeAMicro.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-12-15",
+        "text": []
+    },
+    {
+        "filename": "2008/20081219-Stampede.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-12-19",
+        "text": []
+    },
+    {
+        "filename": "2008/20081222-FiggyPudding.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-12-22",
+        "text": []
+    },
+    {
+        "filename": "2008/20081229-Sandwich.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2008-12-29",
+        "text": []
+    },
+    {
+        "filename": "2009/20090102-WorryWolf.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-01-02",
+        "text": []
+    },
+    {
+        "filename": "2009/20090109-LifeAgain.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-01-09",
+        "text": []
+    },
+    {
+        "filename": "2009/20090112-HisLastNameisMann.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-01-12",
+        "text": []
+    },
+    {
+        "filename": "2009/20090116-YesItsWashable.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-01-16",
+        "text": []
+    },
+    {
+        "filename": "2009/20090123-NervousLaugh.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-01-23",
+        "text": []
+    },
+    {
+        "filename": "2009/20090128-DownintheDumps.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-01-28",
+        "text": []
+    },
+    {
+        "filename": "2009/20090130-YeahHeCouldUse.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-01-30",
+        "text": []
+    },
+    {
+        "filename": "2009/20090202-HeyNoRunningIn.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-02-02",
+        "text": []
+    },
+    {
+        "filename": "2009/20090206-PriorExperiencePlu.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-02-06",
+        "text": []
+    },
+    {
+        "filename": "2009/20090209-Doesthathappen.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-02-09",
+        "text": []
+    },
+    {
+        "filename": "2009/20090213-HeyHeDidSkip.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-02-13",
+        "text": []
+    },
+    {
+        "filename": "2009/20090220-TheyNeedSomeCrossi.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-02-20",
+        "text": []
+    },
+    {
+        "filename": "2009/20090223-ItsHappenedtoEvery.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-02-23",
+        "text": []
+    },
+    {
+        "filename": "2009/20090227-WwaitGuysCant.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-02-27",
+        "text": []
+    },
+    {
+        "filename": "2009/20090302-RockBottom.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-03-02",
+        "text": []
+    },
+    {
+        "filename": "2009/20090306-ArentTheyAdorable.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-03-06",
+        "text": []
+    },
+    {
+        "filename": "2009/20090309-GoodNightUntilTomo.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-03-09",
+        "text": []
+    },
+    {
+        "filename": "2009/20090313-WellImLovingIt.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-03-13",
+        "text": []
+    },
+    {
+        "filename": "2009/20090316-HisSecondFavoritei.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-03-16",
+        "text": []
+    },
+    {
+        "filename": "2009/20090320-HeyDidYouMiss.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-03-20",
+        "text": []
+    },
+    {
+        "filename": "2009/20090323-CutestMapEver-Ani.gif",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-03-23",
+        "text": []
+    },
+    {
+        "filename": "2009/20090327-NotSoFastFriends.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-03-27",
+        "text": []
+    },
+    {
+        "filename": "2009/20090330-ButHeWasntLate.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-03-30",
+        "text": []
+    },
+    {
+        "filename": "2009/20090403-SmilingBomb.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-04-03",
+        "text": []
+    },
+    {
+        "filename": "2009/20090406-HesGonnaEndUp.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-04-06",
+        "text": []
+    },
+    {
+        "filename": "2009/20090410-WellWeCanDoThat.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-04-10",
+        "text": []
+    },
+    {
+        "filename": "2009/20090413-NoEasterBunny.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-04-13",
+        "text": []
+    },
+    {
+        "filename": "2009/20090417-HeyNowThisWasAll.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-04-17",
+        "text": []
+    },
+    {
+        "filename": "2009/20090420-MaybeHeisRelatedto.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-04-20",
+        "text": []
+    },
+    {
+        "filename": "2009/20090424-IsThataYes.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-04-24",
+        "text": []
+    },
+    {
+        "filename": "2009/20090427-ItsJustaFriendlyBe.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-04-27",
+        "text": []
+    },
+    {
+        "filename": "2009/20090501-ForestnoScramble.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-05-01",
+        "text": []
+    },
+    {
+        "filename": "2009/20090504-Best9outof16.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-05-04",
+        "text": []
+    },
+    {
+        "filename": "2009/20090508-Iguessitwouldneed.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-05-08",
+        "text": []
+    },
+    {
+        "filename": "2009/20090511-IllSettleforaCooki.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-05-11",
+        "text": []
+    },
+    {
+        "filename": "2009/20090515-DoesthatMeanMyRoom.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-05-15",
+        "text": []
+    },
+    {
+        "filename": "2009/20090518-Waitwhatwasthatabo.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-05-18",
+        "text": []
+    },
+    {
+        "filename": "2009/20090522-Therearenoothercou.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-05-22",
+        "text": []
+    },
+    {
+        "filename": "2009/20090525-Iveheardgrandmas.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-05-25",
+        "text": []
+    },
+    {
+        "filename": "2009/20090529-Micehavereallylarg.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-05-29",
+        "text": []
+    },
+    {
+        "filename": "2009/20090601-Awwww.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-06-01",
+        "text": []
+    },
+    {
+        "filename": "2009/20090605-SqueakIMeanWoof.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-06-05",
+        "text": []
+    },
+    {
+        "filename": "2009/20090608-ThatsJustnotFair.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-06-08",
+        "text": []
+    },
+    {
+        "filename": "2009/20090612-MagicalDreamers.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-06-12",
+        "text": []
+    },
+    {
+        "filename": "2009/20090615-FOrest+WOlf.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-06-15",
+        "text": []
+    },
+    {
+        "filename": "2009/20090619-LooksLikeitsTakeou.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-06-19",
+        "text": []
+    },
+    {
+        "filename": "2009/20090622-ACommonPresent.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-06-22",
+        "text": []
+    },
+    {
+        "filename": "2009/20090626-OtherstocomeasIthi.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-06-26",
+        "text": []
+    },
+    {
+        "filename": "2009/20090629-InWhichWeFindOut.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-06-29",
+        "text": []
+    },
+    {
+        "filename": "2009/20090703-ThatWasLikeHis.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-07-03",
+        "text": []
+    },
+    {
+        "filename": "2009/20090706-RulesofEngagement.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-07-06",
+        "text": []
+    },
+    {
+        "filename": "2009/20090710-ActuallyPalmTrees.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-07-10",
+        "text": []
+    },
+    {
+        "filename": "2009/20090713-ProbablyasUselessa.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-07-13",
+        "text": []
+    },
+    {
+        "filename": "2009/20090717-DoesAnyoneEvenReme.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-07-17",
+        "text": []
+    },
+    {
+        "filename": "2009/20090720-QuitetheTemperOn.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-07-20",
+        "text": []
+    },
+    {
+        "filename": "2009/20090724-AtLeastHeDoesn'tHa.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-07-24",
+        "text": []
+    },
+    {
+        "filename": "2009/20090727-SmoothMoves.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-07-27",
+        "text": []
+    },
+    {
+        "filename": "2009/20090731-NotSoRomantic.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-07-31",
+        "text": []
+    },
+    {
+        "filename": "2009/20090803-AftertheMovies.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-08-03",
+        "text": []
+    },
+    {
+        "filename": "2009/20090807-HappensEveryTime.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-08-07",
+        "text": []
+    },
+    {
+        "filename": "2009/20090810-LensFlare.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-08-10",
+        "text": []
+    },
+    {
+        "filename": "2009/20090814-AtLeastThingsCant.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-08-14",
+        "text": []
+    },
+    {
+        "filename": "2009/20090817-HeDidthisTheEntire.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-08-17",
+        "text": []
+    },
+    {
+        "filename": "2009/20090821-PeopleDoThistoMe.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-08-21",
+        "text": []
+    },
+    {
+        "filename": "2009/20090824-AlwaysaSilverLinin.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-08-24",
+        "text": []
+    },
+    {
+        "filename": "2009/20090828-DecidingFactor.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-08-28",
+        "text": []
+    },
+    {
+        "filename": "2009/20090831-WaitingGame.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-08-31",
+        "text": []
+    },
+    {
+        "filename": "2009/20090904-100thComic.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-09-04",
+        "text": []
+    },
+    {
+        "filename": "2009/20090907-MouseTime-1.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-09-07",
+        "text": []
+    },
+    {
+        "filename": "2009/20090909-MouseTime-2.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-09-09",
+        "text": []
+    },
+    {
+        "filename": "2009/20090911-MouseTime-3.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-09-11",
+        "text": []
+    },
+    {
+        "filename": "2009/20090914-NoWorriesTheyre.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-09-14",
+        "text": []
+    },
+    {
+        "filename": "2009/20090918-ElapsedTime.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-09-18",
+        "text": []
+    },
+    {
+        "filename": "2009/20090921-DontThinkaboutit.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-09-21",
+        "text": []
+    },
+    {
+        "filename": "2009/20090925-MiceComeinHandy.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-09-25",
+        "text": []
+    },
+    {
+        "filename": "2009/20090928-HesNotLazyHeJust.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-09-28",
+        "text": []
+    },
+    {
+        "filename": "2009/20091002-OrangewastheOnly.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-10-02",
+        "text": []
+    },
+    {
+        "filename": "2009/20091005-Whostheleaderofthe.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-10-05",
+        "text": []
+    },
+    {
+        "filename": "2009/20091009-Whatdoesthishaveto.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-10-09",
+        "text": []
+    },
+    {
+        "filename": "2009/20091012-AfterSchoolPrepare.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-10-12",
+        "text": []
+    },
+    {
+        "filename": "2009/20091016-LaterThatNight.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-10-16",
+        "text": []
+    },
+    {
+        "filename": "2009/20091019-OkayMaybetheWater.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-10-19",
+        "text": []
+    },
+    {
+        "filename": "2009/20091023-FillerSickTime.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-10-23",
+        "text": []
+    },
+    {
+        "filename": "2009/20091026-MouseTime-4.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-10-26",
+        "text": []
+    },
+    {
+        "filename": "2009/20091102-Guesshesnotvery.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-11-02",
+        "text": []
+    },
+    {
+        "filename": "2009/20091106-SomeSeriousThought.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-11-06",
+        "text": []
+    },
+    {
+        "filename": "2009/20091109-Hewillstartwhisper.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-11-09",
+        "text": []
+    },
+    {
+        "filename": "2009/20091113-Self-DesignatedLea.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-11-13",
+        "text": []
+    },
+    {
+        "filename": "2009/20091116-WellHeSeemsNiceEno.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-11-16",
+        "text": []
+    },
+    {
+        "filename": "2009/20091120-UnrequitedCompetit.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-11-20",
+        "text": []
+    },
+    {
+        "filename": "2009/20091123-I'mSureHesOnlyGotT.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-11-23",
+        "text": []
+    },
+    {
+        "filename": "2009/20091127-TryDoingThisWhen.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-11-27",
+        "text": []
+    },
+    {
+        "filename": "2009/20091130-SsoManyWords.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-11-30",
+        "text": []
+    },
+    {
+        "filename": "2009/20091207-TheyllProbablyHave.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-12-07",
+        "text": []
+    },
+    {
+        "filename": "2009/20091211-ToBeFairSomeofThe.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-12-11",
+        "text": []
+    },
+    {
+        "filename": "2009/20091214-AmazinglyInconspi.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-12-14",
+        "text": []
+    },
+    {
+        "filename": "2009/20091218-Andthentheresmybal.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-12-18",
+        "text": []
+    },
+    {
+        "filename": "2009/20091221-TreesideNap.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-12-21",
+        "text": []
+    },
+    {
+        "filename": "2009/20091225-GiftGiving.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2009-12-25",
+        "text": []
+    },
+    {
+        "filename": "2010/FWA-Year2-Small.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "!!!UNKNOWN!!!",
+        "text": []
+    },
+    {
+        "filename": "2010/20100101-Ohlookyourlocker.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-01-01",
+        "text": []
+    },
+    {
+        "filename": "2010/20100104-HehasaWholePocket.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-01-04",
+        "text": []
+    },
+    {
+        "filename": "2010/20100108-HeShouldveSaid.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-01-08",
+        "text": []
+    },
+    {
+        "filename": "2010/20100111-Hesprettyfast.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-01-11",
+        "text": []
+    },
+    {
+        "filename": "2010/20100115-OfPlaygrounds.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-01-15",
+        "text": []
+    },
+    {
+        "filename": "2010/20100118-HeTookaCensusat.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-01-18",
+        "text": []
+    },
+    {
+        "filename": "2010/201001210-IDontGetItEither.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "!!!UNKNOWN!!!",
+        "text": []
+    },
+    {
+        "filename": "2010/201001213-SomewhatDisappoin.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "!!!UNKNOWN!!!",
+        "text": []
+    },
+    {
+        "filename": "2010/201001220-Misinterpretation.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "!!!UNKNOWN!!!",
+        "text": []
+    },
+    {
+        "filename": "2010/20100125-ImSureHellPopUpGat.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-01-25",
+        "text": []
+    },
+    {
+        "filename": "2010/20100129-ReallyJustNeverSay.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-01-29",
+        "text": []
+    },
+    {
+        "filename": "2010/20100201-IfanAdultCant.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-02-01",
+        "text": []
+    },
+    {
+        "filename": "2010/20100205-AllAccordingtoPlan.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-02-05",
+        "text": []
+    },
+    {
+        "filename": "2010/20100212-Andherewezeethewol.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-02-12",
+        "text": []
+    },
+    {
+        "filename": "2010/20100215-NoAnnoyingSidekick.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-02-15",
+        "text": []
+    },
+    {
+        "filename": "2010/20100219-AndThenIClickAroun.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-02-19",
+        "text": []
+    },
+    {
+        "filename": "2010/20100226-BARBECUE.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-02-26",
+        "text": []
+    },
+    {
+        "filename": "2010/20100305-JustDontTryThisOn.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-03-05",
+        "text": []
+    },
+    {
+        "filename": "2010/20100308-SurprisingThatHeEv.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-03-08",
+        "text": []
+    },
+    {
+        "filename": "2010/20100312-HesJustaBitWorried.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-03-12",
+        "text": []
+    },
+    {
+        "filename": "2010/20100315-SheWasHidinginThe.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-03-15",
+        "text": []
+    },
+    {
+        "filename": "2010/20100319-NextUpisTheBog.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-03-19",
+        "text": []
+    },
+    {
+        "filename": "2010/20100322-WhyEvenBotherBeing.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-03-22",
+        "text": []
+    },
+    {
+        "filename": "2010/20100329-3SecondsBefore.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-03-29",
+        "text": []
+    },
+    {
+        "filename": "2010/20100409-ThisCountsasSynop.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-04-09",
+        "text": []
+    },
+    {
+        "filename": "2010/20100416-FlyingFlamingLava.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-04-16",
+        "text": []
+    },
+    {
+        "filename": "2010/20100419-MinorInconvenience.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-04-19",
+        "text": []
+    },
+    {
+        "filename": "2010/20100423-FaintingGoatsLookthem.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-04-23",
+        "text": []
+    },
+    {
+        "filename": "2010/20100426-ThatLastOnesPrettyVa.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-04-26",
+        "text": []
+    },
+    {
+        "filename": "2010/20100430-FirstThingToPopinto.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-04-30",
+        "text": []
+    },
+    {
+        "filename": "2010/20100503-ItsEitherThatOrJohnson.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-05-03",
+        "text": []
+    },
+    {
+        "filename": "2010/20100507-TheresanEndinSight.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-05-07",
+        "text": []
+    },
+    {
+        "filename": "2010/20100510-MothersDay.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-05-10",
+        "text": []
+    },
+    {
+        "filename": "2010/20100514-ExplainingThings.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-05-14",
+        "text": []
+    },
+    {
+        "filename": "2010/20100517-YouRemembertheGoat.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-05-17",
+        "text": []
+    },
+    {
+        "filename": "2010/20100524-IFoundIt.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-05-24",
+        "text": []
+    },
+    {
+        "filename": "2010/20100607-ItdBeWorseIfThereWas.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-06-07",
+        "text": []
+    },
+    {
+        "filename": "2010/20100611-ConTrip2010.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-06-11",
+        "text": []
+    },
+    {
+        "filename": "2010/20100614-IGuessHeDidn'tNotice.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-06-14",
+        "text": []
+    },
+    {
+        "filename": "2010/20100618-ThinkOfaPlatter.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-06-18",
+        "text": []
+    },
+    {
+        "filename": "2010/20100625-SureTookHerLong.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-06-25",
+        "text": []
+    },
+    {
+        "filename": "2010/20100628-ForestSketches.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-06-28",
+        "text": []
+    },
+    {
+        "filename": "2010/20100702-SrirachaDoom.jpg",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-07-02",
+        "text": []
+    },
+    {
+        "filename": "2010/20100709-KyleSketches.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-07-09",
+        "text": []
+    },
+    {
+        "filename": "2010/20100712-HelpisOnTheWay.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-07-12",
+        "text": []
+    },
+    {
+        "filename": "2010/20100716-WorryGoatJustDoes.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-07-16",
+        "text": []
+    },
+    {
+        "filename": "2010/20100719-YepAfraidofTheDark.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-07-19",
+        "text": []
+    },
+    {
+        "filename": "2010/20100723-IWouldntPutItPast.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-07-23",
+        "text": []
+    },
+    {
+        "filename": "2010/20100730-ItsBeenaLongJour.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-07-30",
+        "text": []
+    },
+    {
+        "filename": "2010/20100802-Boingboingboing.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-08-02",
+        "text": []
+    },
+    {
+        "filename": "2010/20100806-NoReallyWhat.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-08-06",
+        "text": []
+    },
+    {
+        "filename": "2010/20100809-YoureATerribleLiar.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-08-09",
+        "text": []
+    },
+    {
+        "filename": "2010/20100813-LongExpositionAhoy.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-08-13",
+        "text": []
+    },
+    {
+        "filename": "2010/20100816-HesHadaLotofTime.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-08-16",
+        "text": []
+    },
+    {
+        "filename": "2010/20100820-TechnicallyHisLast.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-08-20",
+        "text": []
+    },
+    {
+        "filename": "2010/20100827-YesThatsaCardboard.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-08-27",
+        "text": []
+    },
+    {
+        "filename": "2010/20100830-HeyTrackingServices.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-08-30",
+        "text": []
+    },
+    {
+        "filename": "2010/20100903-AGiantFoxStatueMight.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-09-03",
+        "text": []
+    },
+    {
+        "filename": "2010/20100910-StressHelp.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-09-10",
+        "text": []
+    },
+    {
+        "filename": "2010/20100913-ItsHowHeSaysHerName.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-09-13",
+        "text": []
+    },
+    {
+        "filename": "2010/20100920-LostandFoundBox.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-09-20",
+        "text": []
+    },
+    {
+        "filename": "2010/20101217-DontWorryItsWool.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-12-17",
+        "text": []
+    },
+    {
+        "filename": "2010/20101224-TheChristmasParty.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-12-24",
+        "text": []
+    },
+    {
+        "filename": "2010/20101231-HeStillHasntHadOne.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2010-12-31",
+        "text": []
+    },
+    {
+        "filename": "2011/20110103-YeahIWouldntGetAny.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-01-03",
+        "text": []
+    },
+    {
+        "filename": "2011/20110107-InOneEarAndOut.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-01-07",
+        "text": []
+    },
+    {
+        "filename": "2011/20110110-Provisions.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-01-10",
+        "text": []
+    },
+    {
+        "filename": "2011/20110114-InchingAlong.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-01-14",
+        "text": []
+    },
+    {
+        "filename": "2011/20110121-IfYouSqueezeIt.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-01-21",
+        "text": []
+    },
+    {
+        "filename": "2011/20110124-ImActuallyNotSure.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-01-24",
+        "text": []
+    },
+    {
+        "filename": "2011/20110128-HedAlreadyEaten.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-01-28",
+        "text": []
+    },
+    {
+        "filename": "2011/20110131-SoThatsWhattheHat.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-01-31",
+        "text": []
+    },
+    {
+        "filename": "2011/20110204-CampfireStories.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-02-04",
+        "text": []
+    },
+    {
+        "filename": "2011/20110207-ImSureHellSpoutSom.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-02-07",
+        "text": []
+    },
+    {
+        "filename": "2011/20110214-ValentinesDay2011.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-02-14",
+        "text": []
+    },
+    {
+        "filename": "2011/20110218-QuickSayChubby.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-02-18",
+        "text": []
+    },
+    {
+        "filename": "2011/20110221-LightSleeper.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-02-21",
+        "text": []
+    },
+    {
+        "filename": "2011/20110225-ScreamIn321.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-02-25",
+        "text": []
+    },
+    {
+        "filename": "2011/20110307-ThisGoesonFor.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-03-07",
+        "text": []
+    },
+    {
+        "filename": "2011/20110801-ActuallyYourethe.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-08-01",
+        "text": []
+    },
+    {
+        "filename": "2011/20110805-IThinktheYelling.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-08-05",
+        "text": []
+    },
+    {
+        "filename": "2011/20110808-KidsTheseDays.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-08-08",
+        "text": []
+    },
+    {
+        "filename": "2011/20110815-NoSenseofDirect.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-08-15",
+        "text": []
+    },
+    {
+        "filename": "2011/20110819-ItWorkedWell.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-08-19",
+        "text": []
+    },
+    {
+        "filename": "2011/20110822-200thComic-Wolfcep.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-08-22",
+        "text": []
+    },
+    {
+        "filename": "2011/20110826-HeJustMissedLunch.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-08-26",
+        "text": []
+    },
+    {
+        "filename": "2011/20110829-YouKnowForFuture.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-08-29",
+        "text": []
+    },
+    {
+        "filename": "2011/20110905-HeThoughtTheyMight.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-09-05",
+        "text": []
+    },
+    {
+        "filename": "2011/20110909-WhatDidYouLeaveThe.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-09-09",
+        "text": []
+    },
+    {
+        "filename": "2011/20110912-BasedOnaTrueStory.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-09-12",
+        "text": []
+    },
+    {
+        "filename": "2011/20110916-SheUsuallyGetsStuc.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-09-16",
+        "text": []
+    },
+    {
+        "filename": "2011/20110919-OhHeyItWasEasy.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-09-19",
+        "text": []
+    },
+    {
+        "filename": "2011/20110923-IThinkHeGottheM.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-09-23",
+        "text": []
+    },
+    {
+        "filename": "2011/20110926-YesHeMeansinGe.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-09-26",
+        "text": []
+    },
+    {
+        "filename": "2011/20110930-WorriedOverNot.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-09-30",
+        "text": []
+    },
+    {
+        "filename": "2011/20111003-CharacterProfile-B.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-10-03",
+        "text": []
+    },
+    {
+        "filename": "2011/20111007-AndTheRealization.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-10-07",
+        "text": []
+    },
+    {
+        "filename": "2011/20111010-Theyrenotreally.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-10-10",
+        "text": []
+    },
+    {
+        "filename": "2011/20111021-ImNotInCharge.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-10-21",
+        "text": []
+    },
+    {
+        "filename": "2011/20111024-TheRaven1.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-10-24",
+        "text": []
+    },
+    {
+        "filename": "2011/20111025-TheRaven2.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-10-25",
+        "text": []
+    },
+    {
+        "filename": "2011/20111026-TheRaven3.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-10-26",
+        "text": []
+    },
+    {
+        "filename": "2011/20111027-TheRaven4.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-10-27",
+        "text": []
+    },
+    {
+        "filename": "2011/20111028-TheRaven5.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-10-28",
+        "text": []
+    },
+    {
+        "filename": "2011/20111031-ThisDoesntWo.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-10-31",
+        "text": []
+    },
+    {
+        "filename": "2011/20111107-ShesFullofGo.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-11-07",
+        "text": []
+    },
+    {
+        "filename": "2011/20111111-Hebroughtiton.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-11-11",
+        "text": []
+    },
+    {
+        "filename": "2011/20111114-Becausethechemis.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-11-14",
+        "text": []
+    },
+    {
+        "filename": "2011/20111118-Wecouldhavecha.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-11-18",
+        "text": []
+    },
+    {
+        "filename": "2011/20111121-BusyAsaWellYou.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-11-21",
+        "text": []
+    },
+    {
+        "filename": "2011/20111128-Heshadanevent.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-11-28",
+        "text": []
+    },
+    {
+        "filename": "2011/20111202-FocusManIMean.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2011-12-02",
+        "text": []
+    },
+    {
+        "filename": "2012/20120306-Sad.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2012-03-06",
+        "text": []
+    },
+    {
+        "filename": "2012/20120312-Nopy.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2012-03-12",
+        "text": []
+    },
+    {
+        "filename": "2012/20120318-RabbitFood.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2012-03-18",
+        "text": []
+    },
+    {
+        "filename": "2012/20120416-WhattaStrangeDream.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2012-04-16",
+        "text": []
+    },
+    {
+        "filename": "2012/20120424-Twitterpatted.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2012-04-24",
+        "text": []
+    },
+    {
+        "filename": "2012/20120427-YouShouldTryThem.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2012-04-27",
+        "text": []
+    },
+    {
+        "filename": "2012/20120501-ItsOneofHis.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2012-05-01",
+        "text": []
+    },
+    {
+        "filename": "2012/20120504-Redirection.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2012-05-04",
+        "text": []
+    },
+    {
+        "filename": "2012/20120511-StopTakeSome.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2012-05-11",
+        "text": []
+    },
+    {
+        "filename": "2012/20120515-HaveIBeenDoing.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2012-05-15",
+        "text": []
+    },
+    {
+        "filename": "2012/20120522-Theweremysteryflav.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2012-05-22",
+        "text": []
+    },
+    {
+        "filename": "2012/20120525-UnfairTeams.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2012-05-25",
+        "text": []
+    },
+    {
+        "filename": "2012/20120612-TheRestofTheLocke.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2012-06-12",
+        "text": []
+    },
+    {
+        "filename": "2012/20120615-SeedsOfDoubt.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2012-06-15",
+        "text": []
+    },
+    {
+        "filename": "2012/20120621-AHelpingHand.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2012-06-21",
+        "text": []
+    },
+    {
+        "filename": "2012/20120720-EverythingsAlright.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2012-07-20",
+        "text": []
+    },
+    {
+        "filename": "2012/20120731-TurningOveraNew.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2012-07-31",
+        "text": []
+    },
+    {
+        "filename": "2012/20120807-ItDoesntWorkas.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2012-08-07",
+        "text": []
+    },
+    {
+        "filename": "2012/20120824-TroubleinPara.png",
+        "title": "",
+        "episode": "Episode #",
+        "date": "2012-08-24",
+        "text": []
+    }
+]

@@ -1,32 +1,134 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="utf-8">
 	<title></title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="FW! Adventures">
+
 	<link rel="stylesheet" href="./css/common.css">
     <link rel="stylesheet" href="./css/view.css">
+
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 </head>
 
 <body>
     <div class="container">
-        <div id="Title"></div>
-
-        <div>
-            <img id="comic" alt="Loading..." title="Loading..."/>
-        </div>
-
         <div>
             <ul id="controls">
+                <li><a class="previous-link" href="#">Previous</a>
+                <li><a class="list-link" href="#">Page List</a>
+                <li><a class="next-link" href="#">Next</a>
             </ul>
         </div>
+
+        <div id="viewer">
+            <div id="Title"></div>
+
+            <div>
+                <img id="comic-img" alt="Loading..." title="Loading..."/>
+            </div>
+
+            <ul id="transcript"></ul>
+        </div>
+
+        <ul id="archive-list" style="display: none;"></ul>
 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
         <script>
-            console.log("TEST")
-            const page_data = $.getJSON('./img/comic_data.json', function(data) {
-                console.log(data)
-            });
+            (function() {
+                let comic_data
+                let current_page = 0
+
+                $.getJSON("./img/comic_data.json", function(data) {
+                    const searchParams = new URLSearchParams(window.location.search)
+
+                    comic_data = data
+
+                    let page_id = searchParams.has("page") ? searchParams.get("page") : 1
+
+                    set_page(page_id)
+
+                    __generate_archive_content()
+                })
+
+                function get_page() {
+                    return current_page
+                }
+
+                function set_page(id) {
+                    // Clamp the value between 1 to max number of pages
+                    id = Math.min(comic_data.length, Math.max(id, 1))
+
+                    const page = comic_data[id - 1]
+                    const comic_img = $("#comic-img")
+
+                    current_page = id
+
+                    // Display content
+                    comic_img.attr("src", "./img/" + page["filename"])
+                    comic_img.attr("alt", page["title"])
+                    comic_img.attr("title", page["title"])
+
+                    __generate_transcript()
+
+                    // Store our page for later reading
+                    window.localStorage.setItem("page", id)
+
+                    // Change the URL to complete it.
+                    const url = new URL(window.location)
+                    url.searchParams.set("page", id)
+
+                    window.history.pushState({}, "", url)
+
+                    // Update Window title
+                    $(document).attr("title", `Page ` + id)
+                }
+
+                function __generate_archive_content() {
+                    for (id = 1; id <= comic_data.length; id++) {
+                        const page = comic_data[id - 1]
+
+                        $("#archive-list").append(`<li><a href="./view.html?page=` + id + `">`+ page["title"] +  `</a></li>`)
+                    }
+                }
+
+                function __generate_transcript() {
+                    const page = comic_data[current_page - 1]
+
+                    // Clear the previous, if any
+                    $("#transcript").empty()
+
+                    for (i = 0; i < page["text"].length; i++)
+                        $("#transcript").append(`<li>` + page["text"][i] + `</li>`)
+                }
+
+                $("#controls .previous-link").click(function(e) {
+                    e.stopImmediatePropagation()
+                    set_page(get_page() - 1)
+
+                    return false
+                })
+
+                $("#controls .list-link").click(function(e) {
+                    e.stopImmediatePropagation()
+
+                    $("#archive-list").toggle()
+                    $("#viewer").toggle()
+
+                    return false
+                })
+
+                $("#controls .next-link").click(function(e) {
+                    e.stopImmediatePropagation()
+                    set_page(get_page() + 1)
+
+                    return false
+                })
+            })()
+
         </script>
     </div>
 </body>
