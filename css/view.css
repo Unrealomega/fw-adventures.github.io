@@ -17,12 +17,12 @@ ul#controls > li {
 }
 
 ul#archive-list {
-    max-width: 700px;
+    max-width: 900px;
     margin: 20px auto;
     list-style: none;
-    columns: 3;
-    -webkit-columns: 3;
-    -moz-columns: 3;
+    columns: 5;
+    -webkit-columns: 5;
+    -moz-columns: 5;
 }
 
 ul#archive-list > li {

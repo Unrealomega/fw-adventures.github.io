@@ -26,7 +26,7 @@
         <div id="viewer">
             <div id="Title"></div>
 
-            <div>
+            <div style="text-align: center;">
                 <img id="comic-img" alt="Loading..." title="Loading..."/>
             </div>
 
@@ -91,7 +91,7 @@
                     for (id = 1; id <= comic_data.length; id++) {
                         const page = comic_data[id - 1]
 
-                        $("#archive-list").append(`<li><a href="./view.html?page=` + id + `">`+ page["title"] +  `</a></li>`)
+                        $("#archive-list").append(`<li><a href="./view.html?page=` + id + `">[` + id + `] `+ page["title"] +  `</a></li>`)
                     }
                 }
 
