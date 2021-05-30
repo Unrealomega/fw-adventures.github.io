@@ -16,4 +16,13 @@
 a.fw-link {
     font-family: SigmarOne;
     text-decoration: none;
+    font-size: x-large
+}
+
+.center {
+    text-align: center;
+}
+
+.link_padding {
+    padding: 10px;
 }

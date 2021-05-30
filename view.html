@@ -8,40 +8,52 @@
     <meta name="description" content="FW! Adventures">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.1/css/bootstrap.min.css" integrity="sha512-Ez0cGzNzHR1tYAv56860NLspgUGuQw16GiOOp/I2LuTmpSK9xDXlgJz3XN4cnpXWDmkNBKXR/VDMTCnAaEooxA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-	<link rel="stylesheet" href="./css/common.css">
-    <link rel="stylesheet" href="./css/view.css">
+	<link rel="stylesheet" href="./css/common.css?v=1">
+    <link rel="stylesheet" href="./css/view.css?v=1">
 
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 </head>
 
 <body>
     <div class="container">
-        <div>
-            <ul id="controls">
-                <li><a class="previous-link fw-link" href="#">Previous</a>
-                <li><a class="toc-link fw-link" href="#">Table of Contents</a>
-                <li><a class="next-link fw-link" href="#">Next</a>
-            </ul>
-        </div>
-
-        <div id="viewer">
-            <div id="Title"></div>
-
-            <div style="text-align: center;">
-                <img id="comic-img" alt="Loading..." title="Loading..."/>
+        <div class="row">
+            <div class="col center">
+                <a class="previous-link fw-link" href="#">Previous</a>
             </div>
-
-            <ul id="transcript"></ul>
+            <div class="col center">
+                <a class="toc-link fw-link" href="#">Table of Contents</a>
+            </div>
+            <div class="col center">
+                <a class="next-link fw-link" href="#">Next</a>
+            </div>
         </div>
 
-        <ul id="archive-list" style="display: none;"></ul>
+        <div class="row">
+            <div class="col">
+                <div id="viewer">
+                    <div id="Title"></div>
 
-        <div>
-            <ul id="controls">
-                <li><a class="previous-link fw-link" href="#">Previous</a>
-                <li><a class="toc-link fw-link" href="#">Table of Contents</a>
-                <li><a class="next-link fw-link" href="#">Next</a>
-            </ul>
+                    <div class="center">
+                        <img id="comic-img" class="img-fluid" alt="Loading..." title="Loading..."/>
+                    </div>
+
+                    <ul id="transcript"></ul>
+                </div>
+
+                <ul id="archive-list" style="display: none;"></ul>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col center">
+                <a class="previous-link fw-link" href="#">Previous</a>
+            </div>
+            <div class="col center">
+                <a class="toc-link fw-link" href="#">Table of Contents</a>
+            </div>
+            <div class="col center">
+                <a class="next-link fw-link" href="#">Next</a>
+            </div>
         </div>
 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -111,14 +123,14 @@
                         $("#transcript").append(`<li>` + page["text"][i] + `</li>`)
                 }
 
-                $("#controls .previous-link").click(function(e) {
+                $(".previous-link").click(function(e) {
                     e.stopImmediatePropagation()
                     set_page(get_page() - 1)
 
                     return false
                 })
 
-                $("#controls .toc-link").click(function(e) {
+                $(".toc-link").click(function(e) {
                     e.stopImmediatePropagation()
 
                     $("#archive-list").toggle()
@@ -127,7 +139,7 @@
                     return false
                 })
 
-                $("#controls .next-link").click(function(e) {
+                $(".next-link").click(function(e) {
                     e.stopImmediatePropagation()
                     set_page(get_page() + 1)
 

@@ -3,29 +3,6 @@ img {
     height: auto;
 }
 
-.archives ul, .viewer ul {
-    display: flex;
-    max-width: 700px;
-    margin: 20px auto;
-    list-style: none;
-    flex-wrap: wrap;
-    font-size: 2em;
-}
-
-.archives ul > li, .viewer ul > li {
-    margin-bottom: 10px;
-    width: 50%;
-    text-align: center;
-    flex-grow: 0;
-    flex-shrink: 0;
-}
-
-@media( min-width: 721px ) {
-    .archives ul > li {
-        width: 20%;
-    }
-}
-
 .bye-img, .banner-img {
     position: relative;
     max-width: 700px;
