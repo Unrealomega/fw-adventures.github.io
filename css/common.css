@@ -19,6 +19,18 @@ a.fw-link {
     font-size: x-large
 }
 
+@media screen and (max-width: 800px) {
+    a.fw-link {
+        font-size: large;
+    }
+}
+
+@media screen and (max-width: 300px) {
+    a.fw-link {
+        font-size: small;
+    }
+}
+
 .center {
     text-align: center;
 }
