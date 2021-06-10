@@ -123,25 +123,56 @@
                         $("#transcript").append(`<li>` + page["text"][i] + `</li>`)
                 }
 
-                $(".previous-link").click(function(e) {
-                    e.stopImmediatePropagation()
+                function previous_page(event) {
+                    if (event)
+                        event.stopImmediatePropagation()
+
                     set_page(get_page() - 1)
 
                     return false
+                }
+
+                function next_page(event) {
+                    if (event)
+                        event.stopImmediatePropagation()
+
+                    set_page(get_page() + 1)
+
+                    return false
+                }
+
+                $(".previous-link").click(previous_page)
+                $(".next-link").click(next_page)
+
+                $("body").keydown(function(event) {
+                    let keyCode = event.keyCode
+                    let keyCaught = false
+
+                    switch (keyCode) {
+                        case 32: // SPACE
+                        case 39: // RIGHT
+                            next_page()
+                            keyCaught = true
+
+                            break
+                        case 37: // LEFT
+                            previous_page()
+                            keyCaught = true
+
+                            break
+                    }
+
+                    if (keyCaught) {
+                        event.stopImmediatePropagation()
+                        return false
+                    }
                 })
 
-                $(".toc-link").click(function(e) {
-                    e.stopImmediatePropagation()
+                $(".toc-link").click(function(event) {
+                    event.stopImmediatePropagation()
 
                     $("#archive-list").toggle()
                     $("#viewer").toggle()
-
-                    return false
-                })
-
-                $(".next-link").click(function(e) {
-                    e.stopImmediatePropagation()
-                    set_page(get_page() + 1)
 
                     return false
                 })

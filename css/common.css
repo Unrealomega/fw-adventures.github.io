@@ -27,7 +27,7 @@ a.fw-link {
 
 @media screen and (max-width: 300px) {
     a.fw-link {
-        font-size: small;
+        font-size: x-small;
     }
 }
 
